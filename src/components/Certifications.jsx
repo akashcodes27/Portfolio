@@ -12,31 +12,36 @@ const certifications = [
     title: "Software Design and Development: Design Patterns & SOLID Principles",
     issuer: "Infosys",
     date: "Oct 2024",
-    link: "https://coursera.org/verify/ibm-cert-link",
+    image: "/certificates/agile.png",  // Add this
+    link: "/certificates/agile.png",   // Optional: same as image
   },
   {
     title: "Software Design: Developing Effective Requirements",
     issuer: "Linkedin Learning",
     date: "Nov 2024",
-    link: "https://coursera.org/verify/meta-cert-link",
+    image: "/certificates/Software_Design.png",  // Add this
+    link: "/certificates/Software_Design.png",   // Optional: same as image
   },
   {
     title: "Software Development Life Cycle (SDLC)",
     issuer: "Linkedin Learning",
     date: "Oct 2024",
-    link: "https://coursera.org/verify/meta-cert-link",
+    image: "/certificates/SDLC.png",  // Add this
+    link: "/certificates/SDLC.png",   // Optional: same as image
   },
    {
     title: "Software Project Management Foundations",
     issuer: "Linkedin Learning",
     date: "Oct 2024",
-    link: "https://coursera.org/verify/meta-cert-link",
+    image: "/certificates/SPM.png",  // Add this
+    link: "/certificates/SPM.png",   // Optional: same as image
   },
    {
     title: "Selenium Essential Training",
     issuer: "Linkedin Learning",
     date: "Oct 2024",
-    link: "https://coursera.org/verify/meta-cert-link",
+    image: "/certificates/selenium.png",  // Add this
+    link: "/certificates/selenium.png",   // Optional: same as image
   },
 ];
 
