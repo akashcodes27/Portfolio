@@ -6,7 +6,8 @@ const certifications = [
     title: "Agile Software Development",
     issuer: "Linkedin Learning",
     date: "Oct 2024",
-    link: "Certificate ID: e1c2fc839f063ac2c6a3a3f6733bc7ad8dd3e57c342d6faf7dbb3c36828986f9",
+    image: "/certificates/agile.png",  // Add this
+    link: "/certificates/agile.png",   // Optional: same as image
   },
   {
     title: "Software Design and Development: Design Patterns & SOLID Principles",
