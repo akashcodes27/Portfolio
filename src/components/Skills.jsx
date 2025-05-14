@@ -1,20 +1,20 @@
 import { motion } from "framer-motion";
 
 const skills = [
-    { label: "Python", level: 85 },
+    { label: "Python", level: 75 },
     { label: "Java", level: 85 },
     { label: "JavaScript", level: 85 },
     { label: "React", level: 90 },
     { label: "Django", level: 85 },
-    { label: "NodeJs", level: 85 },
+    { label: "NodeJs", level: 80 },
     { label: "RESTful API", level: 85 },
-    { label: "Firebase", level: 75 },
-    { label: "Postman", level: 65 },
-    { label: "HTML-CSS", level: 88 },
-    { label: "Git & GitHub", level: 80 },
+    { label: "Firebase", level: 85 },
+    { label: "Postman", level: 90 },
+    { label: "HTML-CSS", level: 95 },
+    { label: "Git & GitHub", level: 70 },
     { label: "AWS S3 | EC2 | IAM", level: 65 },
-    { label: "DevOps (CI/CD)", level: 65 },
-    { label: "MS Office Tools", level: 65 },
+    { label: "DevOps (CI/CD)", level: 45 },
+    { label: "MS Office Tools", level: 85 },
 ];
 
 const Skills = () => {
