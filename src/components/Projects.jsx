@@ -6,7 +6,7 @@ const projects = [
     title: "NeuroMatch",
     description:
       "AI-powered personality quiz + career matching system using React, Firebase, and GPT API.",
-    tech: ["React", "Firebase", "OpenAI"],
+    tech: ["React", "Firebase", "Javascript"],
     github: "https://github.com/akashcodes27/Neuromatch",
     live: "https://neuromatch.vercel.app",
   },
@@ -14,7 +14,7 @@ const projects = [
     title: "CloudDrive",
     description:
       "CloudDrive – A full-stack cloud storage platform built with React, Django, AWS S3, and CloudFront, featuring CI/CD automation with GitHub Actions.",
-    tech: ["React", "Django", "GPT"],
+    tech: ["React", "Django", "AWS", "RESTful API"],
     github: "https://github.com/akashcodes27/CloudDrive",
     live: "http://clouddrive-owner-bucket.s3-website.ca-central-1.amazonaws.com/",
   },
@@ -22,7 +22,7 @@ const projects = [
     title: "TranquilMind",
     description:
       "Mental health chatbot built with React and Django backend, providing motivational therapy conversations.",
-    tech: ["React", "Django", "GPT"],
+    tech: ["React", "Django", "AWS", "RESTful API"],
     github: "https://github.com/yourusername/mindease",
     live: "https://mindease.vercel.app",
   },
@@ -30,7 +30,7 @@ const projects = [
     title: "LitterLens",
     description:
       "Mental health chatbot built with React and Django backend, providing motivational therapy conversations.",
-    tech: ["React", "Django", "GPT"],
+    tech: ["HTML","CSS", "Flask", "YoloV8", "Pytorch"],
     github: "https://github.com/yourusername/mindease",
     live: "https://mindease.vercel.app",
   },
