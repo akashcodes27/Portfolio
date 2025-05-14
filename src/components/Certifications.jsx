@@ -3,9 +3,9 @@ import { FaExternalLinkAlt } from "react-icons/fa";
 
 const certifications = [
   {
-    title: "AWS Certified Cloud Practitioner",
-    issuer: "Amazon Web Services",
-    date: "Apr 2024",
+    title: "Agile Software Development",
+    issuer: "Linkedin Learning",
+    date: "Oct 2024",
     link: "https://aws.amazon.com/verification-link",
   },
   {
