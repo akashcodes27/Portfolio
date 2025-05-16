@@ -50,7 +50,7 @@ const Hero = () => {
           src="/hero_illustration.png"
           alt="Developer Illustration"
           // className="w-[700px] drop-shadow-xl"
-          className="w-[80%] sm:w-[70%] md:w-[60%] lg:w-[700px] xl:w-[750px] drop-shadow-xl"
+          className="w-[80%] sm:w-[90%] md:w-[60%] lg:w-[700px] xl:w-[750px] drop-shadow-xl"
         />
       </motion.div>
     </section>
