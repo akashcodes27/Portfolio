@@ -5,16 +5,16 @@ const projects = [
   {
     title: "NeuroMatch",
     description:
-      "AI-powered personality quiz + career matching system using React, Firebase, and GPT API.",
-    tech: ["React", "Firebase", "Javascript"],
+      "AI-powered Personality Based Career Recommendation System",
+    tech: ["React", "Firebase","HTML","CSS", "Javascript"],
     github: "https://github.com/akashcodes27/Neuromatch",
     live: "https://neuromatch.vercel.app",
   },
   {
     title: "CloudDrive",
     description:
-      "CloudDrive – A full-stack cloud storage platform built with React, Django, AWS S3, and CloudFront, featuring CI/CD automation with GitHub Actions.",
-    tech: ["React", "Django", "AWS", "RESTful API"],
+      "CloudDrive – A full-stack cloud storage platform built with React, Django, AWS Services, and CloudFront",
+    tech: ["React", "Django", "AWS S3","AWS EC2","AWS CloudFront-CDN", "RESTful API"],
     github: "https://github.com/akashcodes27/CloudDrive",
     live: "http://clouddrive-owner-bucket.s3-website.ca-central-1.amazonaws.com/",
   },
@@ -30,8 +30,8 @@ const projects = [
   {
     title: "Intern Management System",
     description:
-      "Mental health chatbot built with React and Django backend, providing motivational therapy conversations.",
-    tech: ["React", "Django", "GPT"],
+      "Web Application Interactive Portal for Aspiring Interns and Recruiting Companies.",
+    tech: ["React", "Django", "HTML", "CSS"],
     github: "https://github.com/yourusername/mindease",
     live: "https://mindease.vercel.app",
   },
@@ -39,10 +39,10 @@ const projects = [
   {
     title: "TranquilMind",
     description:
-      "Mental health chatbot built with React and Django backend, providing motivational therapy conversations.",
-    tech: ["React", "Django", "GPT"],
-    github: "https://github.com/yourusername/mindease",
-    live: "https://mindease.vercel.app",
+      "Mental health Application built with React and Django backend, providing motivational therapy conversations.",
+    tech: ["React", "Django", "HTML", "CSS"],
+    github: "https://github.com/akashcodes27",
+    live: "https://github.com/akashcodes27",
   },
 ];
 
