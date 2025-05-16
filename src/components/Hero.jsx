@@ -41,7 +41,8 @@ const Hero = () => {
       {/* Right Side: Illustration */}
       <motion.div
         // className="flex-1 hidden md:flex justify-center"
-         className="flex-1 flex justify-center md:justify-end mt-6 md:mt-0"
+        //  className="flex-1 flex justify-center md:justify-end mt-6 md:mt-0"
+        className="flex-1 flex justify-center md:justify-end -mt-4 sm:-mt-6 md:mt-0"
         initial={{ opacity: 0, x: 40 }}
         animate={{ opacity: 1, x: 0 }}
         transition={{ duration: 0.6 }}
