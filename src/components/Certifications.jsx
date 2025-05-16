@@ -30,14 +30,14 @@ const certifications = [
     image: "/certificates/SDLC.png",  // Add this
     link: "/certificates/SDLC.png",   // Optional: same as image
   },
-   {
+  {
     title: "Software Project Management Foundations",
     issuer: "Linkedin Learning",
     date: "Oct 2024",
     image: "/certificates/SPM.png",  // Add this
     link: "/certificates/SPM.png",   // Optional: same as image
   },
-   {
+  {
     title: "Selenium Essential Training",
     issuer: "Linkedin Learning",
     date: "Oct 2024",
@@ -62,8 +62,8 @@ const Certifications = () => {
           <motion.div
             key={index}
             className="bg-white p-6 rounded-2xl shadow-xl border border-softSilver transition hover:shadow-[0_10px_30px_rgba(70,18,32,0.2)]"
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
+            initial={{ opacity: 0, scale: 0.98 }}
+            whileInView={{ opacity: 1, scale: 1 }}
             viewport={{ once: true }}
             transition={{ delay: index * 0.2, duration: 0.6 }}
           >
