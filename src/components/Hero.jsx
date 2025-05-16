@@ -75,13 +75,19 @@ const Hero = () => {
         </p>
 
         <div className="mt-8 flex gap-4">
-          <button className="bg-redwood text-white px-6 py-3 rounded-full font-medium shadow-lg hover:bg-cordovan hover:shadow-xl transition hover:scale-105 duration-300">
-            View Projects
-          </button>
-          <button className="border border-redwood text-redwood px-6 py-3 rounded-full font-medium hover:bg-redwood hover:text-white transition hover:scale-105 duration-300">
-            Contact Me
-          </button>
+          <Link to="projects" smooth={true} duration={500}>
+            <button className="bg-redwood text-white px-6 py-3 rounded-full font-medium shadow-lg hover:bg-cordovan hover:shadow-xl transition hover:scale-105 duration-300">
+              View Projects
+            </button>
+          </Link>
+
+          <Link to="contact" smooth={true} duration={500}>
+            <button className="border border-redwood text-redwood px-6 py-3 rounded-full font-medium hover:bg-redwood hover:text-white transition hover:scale-105 duration-300">
+              Contact Me
+            </button>
+          </Link>
         </div>
+
       </motion.div>
 
       {/* Right Side: Illustration */}

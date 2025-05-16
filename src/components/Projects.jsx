@@ -19,20 +19,12 @@ const projects = [
     live: "http://clouddrive-owner-bucket.s3-website.ca-central-1.amazonaws.com/",
   },
   {
-    title: "TranquilMind",
-    description:
-      "Mental health chatbot built with React and Django backend, providing motivational therapy conversations.",
-    tech: ["React", "Django", "AWS", "RESTful API"],
-    github: "https://github.com/yourusername/mindease",
-    live: "https://mindease.vercel.app",
-  },
-  {
     title: "LitterLens",
     description:
-      "Mental health chatbot built with React and Django backend, providing motivational therapy conversations.",
+      "Penalty based License Plate Recognition and Trash Detection System using Computer Vision Tech.",
     tech: ["HTML","CSS", "Flask", "YoloV8", "Pytorch"],
-    github: "https://github.com/yourusername/mindease",
-    live: "https://mindease.vercel.app",
+    github: "https://github.com/akashcodes27",
+    live: "https://github.com/akashcodes27",
   },
 
   {
