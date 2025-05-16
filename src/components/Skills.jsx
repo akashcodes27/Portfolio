@@ -35,6 +35,7 @@ const Skills = () => {
                         className="space-y-2"
                         initial={{ opacity: 0, x: -30 }}
                         whileInView={{ opacity: 1, x: 0 }}
+                        viewport={{ once: true }}
                         transition={{ duration: 0.5, delay: index * 0.1 }}
                     >
                         <div className="flex justify-between text-sm font-medium">

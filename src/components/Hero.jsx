@@ -65,6 +65,7 @@ const Hero = () => {
         className="flex-1 max-w-xl"
         initial={{ opacity: 0, x: -40 }}
         animate={{ opacity: 1, x: 0 }}
+        viewport={{ once: true }}
         transition={{ duration: 0.6 }}
       >
         <h1 className="text-5xl md:text-6xl font-extrabold text-cosmos drop-shadow-md">

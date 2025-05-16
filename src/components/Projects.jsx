@@ -64,6 +64,7 @@ const Projects = () => {
             className="bg-white text-mapleGray p-6 rounded-2xl shadow-xl hover:shadow-[0_10px_40px_rgba(70,18,32,0.2)] transition duration-300 border border-softSilver"
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
             transition={{ delay: index * 0.2, duration: 0.5 }}
           >
             <h3 className="text-2xl font-semibold text-cosmos mb-2">

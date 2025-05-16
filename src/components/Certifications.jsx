@@ -64,6 +64,7 @@ const Certifications = () => {
             className="bg-white p-6 rounded-2xl shadow-xl border border-softSilver transition hover:shadow-[0_10px_30px_rgba(70,18,32,0.2)]"
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
             transition={{ delay: index * 0.2, duration: 0.6 }}
           >
             <h3 className="text-xl font-bold text-cosmos">{cert.title}</h3>
