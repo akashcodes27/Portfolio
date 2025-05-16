@@ -41,7 +41,7 @@ const Hero = () => {
       {/* Right Side: Illustration */}
       <motion.div
         // className="flex-1 hidden md:flex justify-center"
-        className="flex-1 flex justify-center md:justify-end mt-10 md:mt-0"
+         className="flex-1 flex justify-center md:justify-end mt-6 md:mt-0"
         initial={{ opacity: 0, x: 40 }}
         animate={{ opacity: 1, x: 0 }}
         transition={{ duration: 0.6 }}
@@ -50,7 +50,7 @@ const Hero = () => {
           src="/hero_illustration.png"
           alt="Developer Illustration"
           // className="w-[700px] drop-shadow-xl"
-          className="w-64 sm:w-72 md:w-[400px] drop-shadow-xl"
+          className="w-[80%] sm:w-[70%] md:w-[60%] lg:w-[400px] xl:w-[480px] drop-shadow-xl"
         />
       </motion.div>
     </section>
