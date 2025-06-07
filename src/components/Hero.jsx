@@ -23,7 +23,8 @@ const Hero = () => {
         </p>
 
         <div className="mt-8 flex gap-4">
-          <Link to="/certificates/akashofficiall.pdf" smooth={true} duration={500}>
+          <a href="/certificates/akashofficiall.pdf" target="_blank" rel="noopener noreferrer">
+
             <button className="bg-redwood text-white px-6 py-3 rounded-full font-medium shadow-lg hover:bg-cordovan hover:shadow-xl transition hover:scale-105 duration-300">
               Resume
             </button>
