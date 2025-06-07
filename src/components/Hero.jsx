@@ -23,12 +23,17 @@ const Hero = () => {
         </p>
 
         <div className="mt-8 flex gap-4">
-          <Link to="projects" smooth={true} duration={500}>
+          <Link to="/certificates/akashofficiall.pdf" smooth={true} duration={500}>
             <button className="bg-redwood text-white px-6 py-3 rounded-full font-medium shadow-lg hover:bg-cordovan hover:shadow-xl transition hover:scale-105 duration-300">
-              View Projects
+              Resume
             </button>
           </Link>
 
+          <Link to="projects" smooth={true} duration={500}>
+            <button className="border border-redwood text-redwood px-6 py-3 rounded-full font-medium hover:bg-redwood hover:text-white transition hover:scale-105 duration-300">
+              View Projects
+            </button>
+          </Link>
           <Link to="contact" smooth={true} duration={500}>
             <button className="border border-redwood text-redwood px-6 py-3 rounded-full font-medium hover:bg-redwood hover:text-white transition hover:scale-105 duration-300">
               Contact Me
