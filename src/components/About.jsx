@@ -109,14 +109,15 @@ const About = () => {
                         <span className="text-redwood">🎓 Major:</span>{" "}
                         <span className="text-apricot">Applied Computer Science</span>
                     </div>
+                     <div>
+                        <span className="text-redwood">🎯 Minor:</span>{" "}
+                        <span className="text-apricot">Data & DevOps</span>
+                    </div>
                     <div>
                         <span className="text-redwood">📌 Area of Interest:</span>{" "}
                         <span className="text-apricot">Full-Stack & Cloud</span>
                     </div>
-                    {/* <div>
-                        <span className="text-redwood">🎯 Minor:</span>{" "}
-                        <span className="text-apricot">Data & DevOps</span>
-                    </div> */}
+                   
                     <div>
                         <span className="text-redwood">⭐ CGPA:</span>{" "}
                         <span className="text-apricot">3.7 / 4</span>
