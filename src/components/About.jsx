@@ -110,7 +110,7 @@ const About = () => {
                         <span className="text-apricot">Applied Computer Science</span>
                     </div>
                      <div>
-                        <span className="text-redwood">🎯 Minor:</span>{" "}
+                        <span className="text-redwood">🎯 Level of Education: Masters</span>{" "}
                         <span className="text-apricot">Data & DevOps</span>
                     </div>
                     <div>
