@@ -94,7 +94,7 @@ const About = () => {
             >
                 {/* Header */}
                 <h2 className="text-4xl font-extrabold text-redwood mb-2 relative inline-block">
-                    Full-Stack Developer | Cloud Enthusiast
+                    Full-Stack Developer | Microsoft Certified: AZ-900
                     <span className="absolute left-0 -bottom-2 w-16 h-1 bg-redwood rounded-full"></span>
                 </h2>
 
@@ -107,16 +107,16 @@ const About = () => {
                 <div className="grid grid-cols-2 gap-x-6 gap-y-2 text-base font-medium">
                     <div>
                         <span className="text-redwood">🎓 Major:</span>{" "}
-                        <span className="text-apricot">Computer Science</span>
+                        <span className="text-apricot">Applied Computer Science</span>
                     </div>
                     <div>
-                        <span className="text-redwood">📌 Specialization:</span>{" "}
-                        <span className="text-apricot">Cloud & Full-Stack</span>
+                        <span className="text-redwood">📌 Area of Interest:</span>{" "}
+                        <span className="text-apricot">Full-Stack, Cloud & DevOps</span>
                     </div>
-                    <div>
+                    {/* <div>
                         <span className="text-redwood">🎯 Minor:</span>{" "}
                         <span className="text-apricot">Data & DevOps</span>
-                    </div>
+                    </div> */}
                     <div>
                         <span className="text-redwood">⭐ CGPA:</span>{" "}
                         <span className="text-apricot">8.73 / 10</span>
