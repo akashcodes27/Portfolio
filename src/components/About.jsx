@@ -111,7 +111,7 @@ const About = () => {
                     </div>
                     <div>
                         <span className="text-redwood">📌 Area of Interest:</span>{" "}
-                        <span className="text-apricot">Full-Stack, Cloud & DevOps</span>
+                        <span className="text-apricot">Full-Stack & Cloud</span>
                     </div>
                     {/* <div>
                         <span className="text-redwood">🎯 Minor:</span>{" "}
@@ -119,7 +119,7 @@ const About = () => {
                     </div> */}
                     <div>
                         <span className="text-redwood">⭐ CGPA:</span>{" "}
-                        <span className="text-apricot">8.73 / 10</span>
+                        <span className="text-apricot">3.7 / 4</span>
                     </div>
                 </div>
 
