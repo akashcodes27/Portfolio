@@ -36,14 +36,7 @@ const projects = [
     live: "https://mindease.vercel.app",
   },
 
-  {
-    title: "TranquilMind",
-    description:
-      "Mental health Application built with React and Django backend, providing motivational therapy conversations.",
-    tech: ["React", "Django", "HTML", "CSS"],
-    github: "https://github.com/akashcodes27",
-    live: "https://github.com/akashcodes27",
-  },
+  
 ];
 
 const Projects = () => {

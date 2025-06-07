@@ -3,6 +3,13 @@ import { FaExternalLinkAlt } from "react-icons/fa";
 
 const certifications = [
   {
+    title: "Microsoft Certified: Azure Fundamentals",
+    issuer: "Microsoft",
+    date: "May 2025",
+    image: "/certificates/AZ-900.jpg",  // Add this
+    link: "/certificates/AZ-900.jpg",   // Optional: same as image
+  },
+  {
     title: "Agile Software Development",
     issuer: "Linkedin Learning",
     date: "Oct 2024",
