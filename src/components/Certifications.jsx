@@ -10,15 +10,22 @@ const certifications = [
     link: "/certificates/AZ-900.jpg",   // Optional: same as image
   },
   {
-    title: "Agile Software Development",
-    issuer: "Linkedin Learning",
+    title: "Deloitte: Technology Job Simulation",
+    issuer: "Deloitte",
+    date: "June 2025",
+    image: "/certificates/forage_deloitte.png",  // Add this
+    link: "/certificates/forage_deloitte.png",   // Optional: same as image
+  },
+  {
+    title: "Software Design and Development: Design Patterns & SOLID Principles",
+    issuer: "Infosys",
     date: "Oct 2024",
     image: "/certificates/agile.png",  // Add this
     link: "/certificates/agile.png",   // Optional: same as image
   },
   {
-    title: "Software Design and Development: Design Patterns & SOLID Principles",
-    issuer: "Infosys",
+    title: "Agile Software Development",
+    issuer: "Linkedin Learning",
     date: "Oct 2024",
     image: "/certificates/agile.png",  // Add this
     link: "/certificates/agile.png",   // Optional: same as image
