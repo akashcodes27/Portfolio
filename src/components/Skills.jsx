@@ -9,7 +9,9 @@ const skills = [
     { label: "NodeJs", level: 80 },
     { label: "RESTful API", level: 90 },
     { label: "Numpy", level: 90 },
-     { label: "Pandas", level: 95 }
+    { label: "Pandas", level: 95 },
+    { label: "Scikit Learn", level: 75 },
+    { label: "PyTorch", level: 70 },
     { label: "Firebase", level: 85 },
     { label: "Postman", level: 90 },
     { label: "HTML-CSS", level: 95 },
