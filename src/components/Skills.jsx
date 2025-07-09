@@ -8,6 +8,8 @@ const skills = [
     { label: "Django", level: 85 },
     { label: "NodeJs", level: 80 },
     { label: "RESTful API", level: 90 },
+    { label: "Numpy", level: 90 },
+     { label: "Pandas", level: 95 }
     { label: "Firebase", level: 85 },
     { label: "Postman", level: 90 },
     { label: "HTML-CSS", level: 95 },
