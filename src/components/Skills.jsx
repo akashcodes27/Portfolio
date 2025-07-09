@@ -13,7 +13,7 @@ const skills = [
     { label: "Scikit Learn", level: 75 },
     { label: "PyTorch", level: 70 },
     { label: "Firebase", level: 85 },
-    { label: "Computer Vision", level: 70 }
+    { label: "Computer Vision", level: 70 },
     { label: "Postman", level: 90 },
     { label: "HTML-CSS", level: 95 },
     { label: "Git & GitHub", level: 70 },
